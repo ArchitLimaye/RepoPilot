@@ -1,0 +1,28 @@
+:root {
+  color-scheme: dark;
+  font-family: system-ui, sans-serif;
+  background: #111827;
+  color: #e5e7eb;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+}
+
+.page {
+  box-sizing: border-box;
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+}
+
+h1 {
+  margin-bottom: 0.75rem;
+  color: #f9fafb;
+}
+
+p {
+  color: #9ca3af;
+  line-height: 1.6;
+}
